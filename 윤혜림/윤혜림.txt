@@ -1,1 +1,1 @@
-https://github.com/yrimi1/rimi
+https://github.com/yrimi1/rimi.git
