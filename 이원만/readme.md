@@ -1,4 +1,2 @@
-C언어 : https://github.com/2wonplz/AI_Study_C  
-HTML : https://github.com/2wonplz/AI_Study_HTML  
-Java : https://github.com/2wonplz/AI_Study_Java  
-Python : https://github.com/2wonplz/AI_study_Python  
+https://github.com/2wonplz/AI_Study  
+C, HTML, Java, Python
