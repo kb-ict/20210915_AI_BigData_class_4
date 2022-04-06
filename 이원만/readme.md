@@ -1,2 +1,2 @@
 https://github.com/2wonplz/AI_Study  
-C, HTML, Java, Python
+C, C#, Java, Python, HTML, CSS, Springboot
